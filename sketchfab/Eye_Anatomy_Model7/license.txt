@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eye Anatomy Model7
+* source:	https://sketchfab.com/3d-models/eye-anatomy-model7-c0bf159a8b2b42eeb437d0f7222faff3
+* author:	jq227 (https://sketchfab.com/jq227)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eye Anatomy Model7" (https://sketchfab.com/3d-models/eye-anatomy-model7-c0bf159a8b2b42eeb437d0f7222faff3) by jq227 (https://sketchfab.com/jq227) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

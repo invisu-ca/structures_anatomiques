@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sheep Heart
+* source:	https://sketchfab.com/3d-models/sheep-heart-d9896447bfca4a50ab8a80d28954d0be
+* author:	mtaesiri (https://sketchfab.com/mtaesiri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sheep Heart" (https://sketchfab.com/3d-models/sheep-heart-d9896447bfca4a50ab8a80d28954d0be) by mtaesiri (https://sketchfab.com/mtaesiri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

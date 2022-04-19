@@ -1,0 +1,342 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        4.424078941345215,
+        3.043004035949707,
+        0.6886720061302185
+      ],
+      "min": [
+        -6.757687091827393,
+        -8.064554214477539,
+        -6.529220104217529
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999966025352478,
+        0.9999958872795105,
+        0.9999909996986389
+      ],
+      "min": [
+        -0.9998151063919067,
+        -0.9883894920349121,
+        -0.9999856352806091
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9992679953575134,
+        0.9976320266723633
+      ],
+      "min": [
+        0.0007319999858736992,
+        0.0007479999912902713
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 352368,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        5.292710781097412,
+        2.7388129234313965,
+        6.1901068687438965
+      ],
+      "min": [
+        -9.189087867736816,
+        -10.135188102722168,
+        -6.685359001159668
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9997859001159668,
+        0.9999973773956299,
+        0.999956488609314
+      ],
+      "min": [
+        -0.9953479766845703,
+        -0.9999077320098877,
+        -0.9997637867927551
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9992679953575134,
+        0.9992520213127136
+      ],
+      "min": [
+        0.0007319999858736992,
+        0.0007479999912902713
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1409472,
+      "componentType": 5125,
+      "count": 348885,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 9195,
+      "max": [
+        4.836441993713379,
+        -4.088232040405273,
+        3.3959999084472656
+      ],
+      "min": [
+        -6.434064865112305,
+        -9.978970527648926,
+        -6.662835121154785
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3255876,
+      "componentType": 5126,
+      "count": 9195,
+      "max": [
+        0.9953550100326538,
+        0.9998193383216858,
+        0.916130781173706
+      ],
+      "min": [
+        -0.9976047873497009,
+        -0.9907324910163879,
+        -0.9865204691886902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 9195,
+      "max": [
+        0.9973139762878418,
+        0.9669780135154724
+      ],
+      "min": [
+        0.0007319999858736992,
+        0.004395000170916319
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2805012,
+      "componentType": 5125,
+      "count": 46995,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "jq227 (https://sketchfab.com/jq227)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/eye-anatomy-model7-c0bf159a8b2b42eeb437d0f7222faff3",
+      "title": "Eye Anatomy Model7"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2992992,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1122072,
+      "byteOffset": 2992992,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3366216,
+      "byteOffset": 4115064,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7481280,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_0_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -1.0,
+        -3.3306690738754706e-16,
+        3.8285688045569393e-16,
+        0.0,
+        -3.3306690738754696e-16,
+        1.0,
+        6.661338147750939e-16,
+        0.0,
+        -3.82856880455694e-16,
+        6.661338147750939e-16,
+        -1.0,
+        0.0,
+        -3.896376609802246,
+        3.298451900482177,
+        3.2984519004821786,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "EyeAnatomyModel2.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

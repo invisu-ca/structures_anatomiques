@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human Organs
+* source:	https://sketchfab.com/3d-models/human-organs-74e22fd93f62468daf7a8955aa69cd76
+* author:	Devin Eggleston (https://sketchfab.com/deggleston)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human Organs" (https://sketchfab.com/3d-models/human-organs-74e22fd93f62468daf7a8955aa69cd76) by Devin Eggleston (https://sketchfab.com/deggleston) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

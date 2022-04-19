@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anatomie van de huid
+* source:	https://sketchfab.com/3d-models/anatomie-van-de-huid-5c6ea68b92a8442c88543da193dab74f
+* author:	E-learning UMCG (https://sketchfab.com/eLearningUMCG)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anatomie van de huid" (https://sketchfab.com/3d-models/anatomie-van-de-huid-5c6ea68b92a8442c88543da193dab74f) by E-learning UMCG (https://sketchfab.com/eLearningUMCG) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
