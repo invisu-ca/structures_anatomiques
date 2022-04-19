@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wachsmodell einer präparierten Leiche
+* source:	https://sketchfab.com/3d-models/wachsmodell-einer-praparierten-leiche-41367ee417a5409f92118971b3cca422
+* author:	escience-tuebingen (https://sketchfab.com/escience-tuebingen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wachsmodell einer präparierten Leiche" (https://sketchfab.com/3d-models/wachsmodell-einer-praparierten-leiche-41367ee417a5409f92118971b3cca422) by escience-tuebingen (https://sketchfab.com/escience-tuebingen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

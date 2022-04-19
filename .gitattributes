@@ -1,0 +1,2 @@
+sketchfab/Wachsmodell_einer_praparierten_Leiche/scene.bin filter=lfs diff=lfs merge=lfs -text
+sketchfab/Wachsmodell_einer_praparierten_Leiche/textures/* filter=lfs diff=lfs merge=lfs -text
