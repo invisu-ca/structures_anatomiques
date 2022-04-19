@@ -1,0 +1,444 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 22624,
+      "max": [
+        8.35420036315918,
+        165.07000732421875,
+        17.50629997253418
+      ],
+      "min": [
+        -8.344900131225586,
+        141.66470336914063,
+        -1.1430000066757202
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 271488,
+      "componentType": 5126,
+      "count": 22624,
+      "max": [
+        0.9999615550041199,
+        0.9999956488609314,
+        0.9997203946113586
+      ],
+      "min": [
+        -0.9999623894691467,
+        -0.999944269657135,
+        -0.9999919533729553
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 22624,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 122313,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 542976,
+      "componentType": 5126,
+      "count": 48331,
+      "max": [
+        6.701700210571289,
+        169.04249572753906,
+        16.337099075317383
+      ],
+      "min": [
+        -6.692299842834473,
+        153.91659545898438,
+        0.29739999771118164
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1122948,
+      "componentType": 5126,
+      "count": 48331,
+      "max": [
+        1.0,
+        0.9999952912330627,
+        0.9997950196266174
+      ],
+      "min": [
+        -1.0,
+        -0.9999992251396179,
+        -0.9999879002571106
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 180992,
+      "componentType": 5126,
+      "count": 48331,
+      "max": [
+        0.9891999959945679,
+        0.9927999973297119
+      ],
+      "min": [
+        0.007799999788403511,
+        0.0008999999845400453
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 567640,
+      "componentType": 5126,
+      "count": 48331,
+      "max": [
+        0.9891999959945679,
+        0.9927999973297119
+      ],
+      "min": [
+        0.007799999788403511,
+        0.0008999999845400453
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 489252,
+      "componentType": 5125,
+      "count": 279006,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1702920,
+      "componentType": 5126,
+      "count": 6298,
+      "max": [
+        14.189399719238281,
+        170.11709594726563,
+        20.677900314331055
+      ],
+      "min": [
+        -14.303299903869629,
+        140.6053009033203,
+        -1.537600040435791
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1778496,
+      "componentType": 5126,
+      "count": 6298,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 954288,
+      "componentType": 5126,
+      "count": 6298,
+      "max": [
+        1.0,
+        2.0
+      ],
+      "min": [
+        -0.26579999923706055,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1605276,
+      "componentType": 5125,
+      "count": 35880,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "zandos (https://sketchfab.com/zandos)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/woman-brain-01f9601c87314665b6e867f7dc52adda",
+      "title": "Woman Brain"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1748796,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1004672,
+      "byteOffset": 1748796,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1854072,
+      "byteOffset": 2753468,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4607540,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "eyes_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3798273001516961,
+          0.13417635128189223,
+          0.026733479085963546,
+          0.014312505722045898
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7455625057220459
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.17121959594938835,
+          0.04746559694932576,
+          0.08649263440393232,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.29957164023274174,
+          0.09657214403348657,
+          0.09657214403348657,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "nerves_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "brain_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6,
+            "TEXCOORD_1": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "eyes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 12,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "nerves"
+    },
+    {
+      "mesh": 0,
+      "name": "nerves_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "brain"
+    },
+    {
+      "mesh": 1,
+      "name": "brain_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "eyes"
+    },
+    {
+      "mesh": 2,
+      "name": "eyes_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

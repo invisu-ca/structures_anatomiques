@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lung_Right
+* source:	https://sketchfab.com/3d-models/lung-right-974d63ce2b1f4760a885e6e88dca7f78
+* author:	prasanth.k (https://sketchfab.com/prasanth.k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lung_Right" (https://sketchfab.com/3d-models/lung-right-974d63ce2b1f4760a885e6e88dca7f78) by prasanth.k (https://sketchfab.com/prasanth.k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
