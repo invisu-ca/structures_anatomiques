@@ -27,4 +27,3 @@ sketchfab/Sheep_Heart/textures/* filter=lfs diff=lfs merge=lfs -text
 sketchfab/Thorax_and_abdomen_some_of_the_lymph_nodes/scene.bin filter=lfs diff=lfs merge=lfs -text
 sketchfab/Thorax_and_abdomen_some_of_the_lymph_nodes/textures/* filter=lfs diff=lfs merge=lfs -text
 sketchfab/Wachsmodell_einer_praparierten_Leiche/scene.bin filter=lfs diff=lfs merge=lfs -text
-sketchfab/Wachsmodell_einer_praparierten_Leiche/textures/* filter=lfs diff=lfs merge=lfs -text
