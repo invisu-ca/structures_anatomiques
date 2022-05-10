@@ -2682,9 +2682,8 @@
         "baseColorTexture": {
           "index": 0
         },
-        "metallicRoughnessTexture": {
-          "index": 1
-        }
+        "metallicFactor": 0.0,
+        "roughnessFactor": 1.0
       }
     },
     {
@@ -2698,11 +2697,8 @@
         "baseColorTexture": {
           "index": 3
         },
-        "metallicFactor": 0.4773246951219512,
-        "metallicRoughnessTexture": {
-          "index": 4
-        },
-        "roughnessFactor": 0.580983231707317
+        "metallicFactor": 0.0,
+        "roughnessFactor": 1.0
       }
     },
     {
@@ -2716,10 +2712,8 @@
         "baseColorTexture": {
           "index": 6
         },
-        "metallicRoughnessTexture": {
-          "index": 7
-        },
-        "roughnessFactor": 0.4651295731707317
+        "metallicFactor": 0.0,
+        "roughnessFactor": 1.0
       }
     }
   ],
