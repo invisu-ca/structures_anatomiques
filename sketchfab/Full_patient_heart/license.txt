@@ -1,0 +1,11 @@
+Model Information:
+* title:	Full Patient Heart from CT - with texture
+* source:	https://sketchfab.com/3d-models/full-patient-heart-from-ct-with-texture-ae1c46e7f44547b3aea4d79acdb6e6ab
+* author:	APIL (https://sketchfab.com/apil_tgh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Full Patient Heart from CT - with texture" (https://sketchfab.com/3d-models/full-patient-heart-from-ct-with-texture-ae1c46e7f44547b3aea4d79acdb6e6ab) by APIL (https://sketchfab.com/apil_tgh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

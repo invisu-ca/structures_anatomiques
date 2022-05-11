@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heart
+* source:	https://sketchfab.com/3d-models/heart-6c4a97cb637840d5a41ab94694758a88
+* author:	tallulahspina (https://sketchfab.com/tallulahspina)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heart" (https://sketchfab.com/3d-models/heart-6c4a97cb637840d5a41ab94694758a88) by tallulahspina (https://sketchfab.com/tallulahspina) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

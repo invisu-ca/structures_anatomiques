@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anatomy of crying
+* source:	https://sketchfab.com/3d-models/anatomy-of-crying-f6ab45cf4a234947ac529ca7de7d40bd
+* author:	elvire (https://sketchfab.com/elvire)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anatomy of crying" (https://sketchfab.com/3d-models/anatomy-of-crying-f6ab45cf4a234947ac529ca7de7d40bd) by elvire (https://sketchfab.com/elvire) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

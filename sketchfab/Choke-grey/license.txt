@@ -1,0 +1,11 @@
+Model Information:
+* title:	Choke-grey
+* source:	https://sketchfab.com/3d-models/choke-grey-949c4c617c4e4fff9f72859a78189d47
+* author:	zandos (https://sketchfab.com/zandos)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Choke-grey" (https://sketchfab.com/3d-models/choke-grey-949c4c617c4e4fff9f72859a78189d47) by zandos (https://sketchfab.com/zandos) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
